@@ -5,6 +5,8 @@ import java.util.Locale;
 public class MethodTasks {
     public static void main(String[] args) {
 
+        //method practice
+
         multiply(int a, int b);
     }
 
